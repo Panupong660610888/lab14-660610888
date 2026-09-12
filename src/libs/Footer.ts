@@ -1,6 +1,6 @@
-interface FooterProps  {
+interface FooterProps {
   year: string;
   fullName: string;
   studentId: string | number;
-};
-export type { FooterProps  };
+}
+export type { FooterProps };
